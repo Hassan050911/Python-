@@ -1,4 +1,4 @@
-# Capítulo 2 — Using the Python Interpreter
+# Capítulo 2 —Using the Python Interpreter
 
 ## 2.1 Invocando el intérprete
 El intérprete de Python suele instalarse en rutas como `/usr/local/bin/python3.14`.  
